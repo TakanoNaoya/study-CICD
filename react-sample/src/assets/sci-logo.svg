@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-label="SCI">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c5cff"/>
+      <stop offset="100%" stop-color="#00d1ff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="240" height="64" rx="12" fill="none"/>
+  <g transform="translate(8,4)" fill="none" stroke="url(#lg)" stroke-width="3">
+    <rect x="0" y="0" width="56" height="56" rx="8" fill="url(#lg)" />
+  </g>
+  <g transform="translate(76,42)" fill="#e8f2ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="28">
+    <text x="0" y="0">SCI</text>
+  </g>
+  <g transform="translate(76,14)" fill="#bcd1ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">
+    <text x="0" y="0">株式会社 エス・シー・アイ</text>
+  </g>
+</svg>
